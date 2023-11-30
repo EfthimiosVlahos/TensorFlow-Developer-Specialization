@@ -9,7 +9,6 @@ The TensorFlow Developer Specialization is a series of courses designed to help 
 
 - **Projects:** Practical implementations of various TensorFlow applications, demonstrating my ability to build, train, and deploy different types of neural networks.
 - **Exercises:** Hands-on exercises completed throughout the course, reinforcing my understanding of TensorFlow's core concepts and functionalities.
-- **Notes:** My personal notes and summaries for quick reference and review of crucial concepts covered in the specialization.
 
 ## Key Topics
 
